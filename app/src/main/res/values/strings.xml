@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Prediksi Kanker</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisis</string>
+    <string name="result">Hasil Prediksi: %1$s \nKeyakinan Prediksi: %2$s</string>
+    <string name="image_classifier_failed">Image classifier mengalami kegagalan. cek log untuk lebih lanjut</string>
+    <string name="empty_picture">Mohon inputkan gambar dahulu</string>
+    <string name="media_isnt_selected">Belum ada media yang dipilih"</string>
+</resources>
