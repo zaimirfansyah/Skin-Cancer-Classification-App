@@ -7,4 +7,5 @@ This is a repository that contains the source code of my submissions project at 
 This repository is created for sharing and educational purposes only. Plagiarism is unacceptable and is not my responsibility
 
 #
-![app cancer](https://github.com/zaimirfansyah/Skin-Cancer-Classification-App/assets/123626602/58d91e16-c093-40d9-a3df-08a4e0e6fb5b)
+
+![app cancer](https://github.com/zaimirfansyah/Skin-Cancer-Classification-App/assets/123626602/685d5c11-5d9d-423b-816e-3fe4410e4903)
